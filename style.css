@@ -1,0 +1,8 @@
+  body{
+    background:linear-gradient(purple 0%, blue 100%);
+    text-align:center;
+  }
+
+h4,h1{
+    color:rgb(170, 214, 253);
+}
